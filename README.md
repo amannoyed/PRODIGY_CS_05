@@ -17,10 +17,3 @@ Ensure that you have Scapy installed. You can install it using the following com
 
  ```bash
 pip install scapy```
-
-This project is licensed under the MIT License.
-
-PRODIGY_CS_05 - Network Packet Analyzer is a project created for educational purposes. Developed by Aman Ali.
-
-Contact
-For any inquiries, please contact [96.amanali@gmail.com].
